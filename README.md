@@ -1,7 +1,7 @@
 # Projeto Prevendo Ocorrência de Diabetes
 
 <div>
-    <img src="diabetes.png" width="500" >
+    <img src="diabetes.png" width="500" align = "left" >
   <br><br/>
 </div>
 
